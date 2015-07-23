@@ -440,10 +440,10 @@ Atenciosamente,
 Equipe do {4}";
 
 $l['email_contact_subject'] = "Contato: {1}";
-$l['email_contact'] = "Perfil no Fórum: {1}
-Endereço IP: {2}
-Mensagem:
-{3}";
+$l['email_contact'] = "E-mail: {1}
+Perfil do Fórum: {2}
+Endereço IP: {3}
+Mensagem: {4}";
 
 $l['pmsubject_subscription'] = "Nova Resposta para {1}";
 $l['pm_subscription'] = "{1},
